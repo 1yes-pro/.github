@@ -4,7 +4,7 @@
 
 | Репо | Что | Статус |
 |---|---|---|
-| [agentic-enterprise](https://github.com/1yes-pro/agentic-enterprise) | Agentic Enterprise: подходы и практики для ИТ | пишется |
+| [agentic-enterprise](https://github.com/1yes-pro/agentic-enterprise) | 1Yes: Agentic Enterprise – методология и открытые компоненты | пишется |
 | bb | Приложение 1Yes для работы с агентами, форк [bb](https://github.com/get-bb/bb) | готовится |
 | engine | Исполнитель 1С: поведение конфигурации без запуска 1С | готовится |
 | skills | Навыки агентов для разработки на 1С | готовится |
